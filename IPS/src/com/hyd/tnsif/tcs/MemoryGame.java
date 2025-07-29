@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class MemoryGame {
 
 	public static void main(String[] args) {
+	//giving user input
      Scanner s=new Scanner(System.in);
 	 System.out.println("Enter the array size");
 	  int n=s.nextInt();
